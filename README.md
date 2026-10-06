@@ -65,7 +65,7 @@ sql/analysis_queries.sql
 
 ## Dashboard
 
-The dashboard should include revenue, gross profit, margin, monthly trends, product performance, and regional performance.
+The dashboard includes revenue, gross profit, margin, monthly trends, product performance, and regional performance.
 
 ## Portfolio description
 
