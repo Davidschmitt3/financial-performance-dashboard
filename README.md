@@ -1,10 +1,10 @@
 # Financial Performance Dashboard
 
-A beginner-level financial analytics project using **Python, SQL, and Tableau/Power BI**.
+A financial analytics project using **Python, SQL, and Tableau/Power BI**.
 
 ## What this project does
 
-This project analyzes a fictional company's transaction data to answer basic financial questions around:
+In this project I analyzed a fictional company's transaction data to answer basic financial questions around:
 
 - Revenue
 - Cost
@@ -64,8 +64,6 @@ sql/analysis_queries.sql
 ```
 
 ## Dashboard
-
-Use the generated CSV files to build a simple financial performance dashboard in Tableau or Power BI.
 
 The dashboard should include revenue, gross profit, margin, monthly trends, product performance, and regional performance.
 
